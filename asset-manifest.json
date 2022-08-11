@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cutshort-interview/static/css/main.0000c65d.css",
-    "main.js": "/cutshort-interview/static/js/main.fa56c486.js",
-    "static/js/787.db836d57.chunk.js": "/cutshort-interview/static/js/787.db836d57.chunk.js",
-    "index.html": "/cutshort-interview/index.html",
-    "main.0000c65d.css.map": "/cutshort-interview/static/css/main.0000c65d.css.map",
-    "main.fa56c486.js.map": "/cutshort-interview/static/js/main.fa56c486.js.map",
-    "787.db836d57.chunk.js.map": "/cutshort-interview/static/js/787.db836d57.chunk.js.map"
+    "main.css": "/swethap1899/cutshort-interview/static/css/main.0000c65d.css",
+    "main.js": "/swethap1899/cutshort-interview/static/js/main.96394dde.js",
+    "static/js/787.db836d57.chunk.js": "/swethap1899/cutshort-interview/static/js/787.db836d57.chunk.js",
+    "index.html": "/swethap1899/cutshort-interview/index.html",
+    "main.0000c65d.css.map": "/swethap1899/cutshort-interview/static/css/main.0000c65d.css.map",
+    "main.96394dde.js.map": "/swethap1899/cutshort-interview/static/js/main.96394dde.js.map",
+    "787.db836d57.chunk.js.map": "/swethap1899/cutshort-interview/static/js/787.db836d57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0000c65d.css",
-    "static/js/main.fa56c486.js"
+    "static/js/main.96394dde.js"
   ]
 }
