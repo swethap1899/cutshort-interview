@@ -138,7 +138,7 @@ function App() {
   return (
     <Stack display={"flex"} paddingY={10} paddingX={5} spacing={5} justifyContent="center" alignItems="center">
       <div className="head">
-        <img src="eden-logo.png" alt="Eden Logo" />
+        <img src={require("./eden-logo.png")} alt="Eden Logo" />
         <h1 className="heading">Eden</h1>
       </div>
       <Box sx={{ width: "50vh" }}>
