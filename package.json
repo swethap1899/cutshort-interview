@@ -1,8 +1,8 @@
 {
-  "homepage": "https://swethap1899.github.io/cutshort-interview",
+  "homepage": "https://github.com/swethap1899/cutshort-interview",
   "name": "swetha-cutshort",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
